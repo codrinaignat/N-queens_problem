@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589885174616.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3789460617",
+    "id" : "ED70EEA1",
+    "lastKnownWriteTime" : 1589885441,
+    "last_content_update" : 1589885441410,
+    "path" : "D:/OneDrive/Facultate/4_2/Ingineria calitatii si fiabilitate/Proiect/Proiect/src/rcpp_n_regine.cpp",
+    "project_path" : "src/rcpp_n_regine.cpp",
+    "properties" : {
+        "cursorPosition" : "64,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}
